@@ -4,11 +4,11 @@ Welcome to the **Employee Payroll System** project in Java! This repository offe
 
 ## 🔍 Project Highlights
 
-- **Abstract `Employee` Class**: Serves as the foundation for different types of employees.
-- **Concrete Subclasses**: Includes `FullTimeEmployee` and `PartTimeEmployee` classes, each with unique salary calculation methods.
-- **User-Friendly Terminal Interface**: Provides an interactive interface for adding, removing, and displaying employees.
-- **Demonstrates Core OOP Concepts**: Offers real-world examples of inheritance, encapsulation, abstraction, and polymorphism.
-- **Detailed Codebase**: Includes a complete source code and step-by-step guide for in-depth understanding.
+**Abstract `Employee` Class**: Serves as the foundation for different types of employees.
+**Concrete Subclasses**: Includes `FullTimeEmployee` and `PartTimeEmployee` classes, each with unique salary calculation methods.
+**User-Friendly Terminal Interface**: Provides an interactive interface for adding, removing, and displaying employees.
+**Demonstrates Core OOP Concepts**: Offers real-world examples of inheritance, encapsulation, abstraction, and polymorphism.
+**Detailed Codebase**: Includes a complete source code and step-by-step guide for in-depth understanding.
 
 ## 🚀 Getting Started
 
